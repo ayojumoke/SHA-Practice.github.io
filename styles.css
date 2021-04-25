@@ -1,0 +1,44 @@
+h1{
+    color: tomato;
+    background-color: white;
+    margin: 0px 0px auto;
+    border-radius: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-image:url(./strategy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+p{
+    font-size: 30px;
+    text-align:end;
+    text-decoration: solid;
+    color: white;
+    background-color: tomato;
+    background-image: url(./e-commerce-traffic-tips.jpg);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    border:navy 1px;
+    border-style: ridge;
+    margin: 150px 150px;
+    padding: 150px 150px;
+    width: auto;
+    height: auto;
+
+}
+nav li{
+    display: block;
+    margin: 0 20px;
+    list-style: none;
+    display: inline-block;
+}
+nav li a{
+    text-decoration: underline;
+    color: white;
+}
+nav{
+    float:right;
+    text-decoration:none;
+}
